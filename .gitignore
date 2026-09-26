@@ -1,0 +1,20 @@
+# ログイン情報(絶対に公開しない)
+storage_state.json
+browser_profile/
+.notebooklm/
+nlm_save_signal
+cookies*.json
+.env
+*.env
+
+# 生成物
+work/
+*.pdf
+*.png
+*.mp3
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.venv/
